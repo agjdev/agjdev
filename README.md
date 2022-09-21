@@ -11,6 +11,5 @@ I am Ashish George Jose a self-taught software engineer from Kerala who always w
 
 ![BarrenAnchoredHyrax-max-1mb](https://user-images.githubusercontent.com/113576263/191495118-aaf030b9-184d-413b-b426-9cbee933b60c.gif)
 ![nodew](https://user-images.githubusercontent.com/113576263/191438688-102cae7b-537d-4c79-80e0-c819d08dde31.png)
-![dartw](https://user-images.githubusercontent.com/113576263/191437972-fda365f4-2639-4670-ac4f-06f119265d25.png)
 ![flutterw](https://user-images.githubusercontent.com/113576263/191437518-8f659fc0-45d1-4cf4-9719-0b09bdb17630.png)
 ![py](https://user-images.githubusercontent.com/113576263/191437099-3b6950da-c1e7-40af-8634-4d56a10de14c.png)

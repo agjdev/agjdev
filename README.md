@@ -5,11 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.agj.co.in](https://www.agj.co.in)
 
-- 📝 I regularly write articles on [https://www.agj.co.in](https://www.agj.co.in)
-
 - 📫 How to reach me **agjdev@gmail.com**
 
-- 📄 Know about my experiences [https://www.agj.co.in](https://www.agj.co.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

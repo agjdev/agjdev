@@ -1,47 +1,37 @@
-### Hi  I'm Ashish George Jose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ranjith-r-63b4271bb)](https://www.linkedin.com/in/agjdev)
-[![Twitter Badge](https://img.shields.io/badge/--1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ranjith93065974)](https://twitter.com/agjdev)
-[![Instagram Badge](https://img.shields.io/badge/--purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/)](https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri)
-[![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:agjdev@gmail.com)](mailto:agjdev@gmail.com)
+<h1 align="center">Hi 👋, I'm Ashish George Jose</h1>
+<h3 align="center">Python Developer (Django & FastAPI )</h3>
+<p>Dedicated and self-taught developer with a fervent passion for programming and web development. Proficient in Python, Django, and FastAPI. I am eager to leverage my skills and knowledge in a dynamic work environment. With a track record of self-motivated learning and a commitment to delivering high-quality code, I am enthusiastic about tackling new challenges and continually expanding my expertise. My goal is to contribute to innovative projects and collaborate with like-minded professionals to create impactful solutions in the ever-evolving world of technology</p>
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/male-freelance-developer-working-from-workplace-7978244-6382308.png?f=webp"  alt="Freelance Developer at Work">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agjdev&label=Profile%20views&color=0e75b6&style=flat" alt="agjdev" /> </p>
+- 👨‍💻 All of my projects are available at [https://www.agj.co.in](https://www.agj.co.in)
 
-hi, i'm [Ashish George Jose](https://www.agj.co.in/), a passionate self-taught python django developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+- 📝 I regularly write articles on [https://www.agj.co.in](https://www.agj.co.in)
 
-I am a passionate person and I love what I do. I help designers, small agencies and bussinesses bring their idea to life. I turn your requirments into websites - on time and on budget.
+- 📫 How to reach me **agjdev@gmail.com**
 
+- 📄 Know about my experiences [https://www.agj.co.in](https://www.agj.co.in)
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:agjdev@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/agjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="agjdev" height="30" width="40" /></a>
+<a href="https://twitter.com/agjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agjdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/agjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agjdev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/agjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="agjdev" height="30" width="40" /></a>
+<a href="https://fb.com/agjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="agjdev" height="30" width="40" /></a>
+<a href="https://instagram.com/agjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agjdev" height="30" width="40" /></a>
+<a href="https://dribbble.com/agjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="agjdev" height="30" width="40" /></a>
+<a href="https://medium.com/@agjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@agjdev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/agjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="agjdev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/agjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agjdev" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/agjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agjdev" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/agjdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="agjdev" /></a></p><br><br>
 
-**languages and tools:**  
-[![My Skills](https://skillicons.dev/icons?i=aws,python,django,react,bootstrap,flask,javascript,c,jquery,docker,java,postgres,nginx,linux,git,figma,stackoverflow,css,cpp,sqlite,heroku,mysql,html,gitlab&perline=6)](https://skillicons.dev)
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agjdev&show_icons=true&locale=en&layout=compact" alt="agjdev" /></p>
 
-📊 **i spent most of my time on:**
-<!--START_SECTION:waka-->
-```text
-Python       ███████████████░░░░░░░░░░   80.00 % 
-JavaScripts  ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-HTML         █▓░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-CSS          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-```
-<!--END_SECTION:waka-->
-<br>
-
-📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=agjdev&show_icons=true&theme=gotham" alt="agjdev" />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agjdev&" alt="agjdev" /></p>

@@ -7,6 +7,13 @@
 
 - 📫 How to reach me **agjdev@gmail.com**
 
+- <ul>
+  <li>Create custom Rest API's using DRF or FastAP</li>
+  <li>Design and implement database schemas using Django ORM</li>
+  <li>Develop templates and views for rendering dynamic web pages using Django's templating engine</li>
+  <li>Integrate frontend frameworks like React or Flutter with Django backends for a more interactive user experience.</li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

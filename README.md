@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish George Jose</h1>
-<h3 align="center">Python Developer (Django & FastAPI )</h3>
+<h3 align="center">Python Developer (Django Developer )</h3>
 <p>Dedicated and self-taught developer with a fervent passion for programming and web development. Proficient in Python, Django, and FastAPI. I am eager to leverage my skills and knowledge in a dynamic work environment. With a track record of self-motivated learning and a commitment to delivering high-quality code, I am enthusiastic about tackling new challenges and continually expanding my expertise. My goal is to contribute to innovative projects and collaborate with like-minded professionals to create impactful solutions in the ever-evolving world of technology</p>
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/male-freelance-developer-working-from-workplace-7978244-6382308.png?f=webp"  alt="Freelance Developer at Work">
 

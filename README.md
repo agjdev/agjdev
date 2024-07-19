@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish George Jose</h1>
-<h3 align="center">Python Developer (Django Developer )</h3>
-<p>Dedicated and self-taught developer with a fervent passion for programming and web development. Proficient in Python, Django, and FastAPI. I am eager to leverage my skills and knowledge in a dynamic work environment. With a track record of self-motivated learning and a commitment to delivering high-quality code, I am enthusiastic about tackling new challenges and continually expanding my expertise. My goal is to contribute to innovative projects and collaborate with like-minded professionals to create impactful solutions in the ever-evolving world of technology</p>
+<h3 align="center">Flutter Developer </h3>
+<p>Dedicated and self-taught developer with a fervent passion for programming and app development. Proficient in Dart, Flutter. I am eager to leverage my skills and knowledge in a dynamic work environment. With a track record of self-motivated learning and a commitment to delivering high-quality code, I am enthusiastic about tackling new challenges and continually expanding my expertise. My goal is to contribute to innovative projects and collaborate with like-minded professionals to create impactful solutions in the ever-evolving world of technology</p>
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/male-freelance-developer-working-from-workplace-7978244-6382308.png?f=webp"  alt="Freelance Developer at Work">
 
 - 👨‍💻 All of my projects are available at [https://www.agj.co.in](https://www.agj.co.in)
@@ -8,10 +8,9 @@
 - 📫 How to reach me **agjdev@gmail.com**
 
  <ul>
-  <li>Create custom Rest API's using DRF or FastAPI</li>
-  <li>Design and implement database schemas using Django ORM</li>
-  <li>Develop templates and views for rendering dynamic web pages using Django's templating engine</li>
-  <li>Integrate frontend frameworks like React or Flutter with Django backends for a more interactive user experience.</li>
+  <li>Create custom apps using Rest API's </li>
+  <li>Design and implement flutter apps using bloc and clean architecture </li>
+
 </ul>
 
 
